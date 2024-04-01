@@ -1,16 +1,13 @@
-### Hi there 👋
+## Introduction
+안녕하세요.
+저는 영남대학교를 다니고 있는 염수민 입니다. 
+제가 관심을 가지고 있는 분야는 게임 프로그래밍 입니다.
 
-<!--
-**js05157/js05157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Career
+영남대학교 원예생명과학과, 컴퓨터공학과 복수전공 학부생
 
-Here are some ideas to get you started:
+## Links
+E-mail - js05157@yu.ac.kr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
