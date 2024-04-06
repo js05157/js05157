@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sumin Yeom, a developer who grows every day.</h1>
 <h3 align="center">A passionate developer from Korea</h3>
 
+##Introduce
+
 - 🌱 I’m currently learning **Algorithms, operating systems, software engineering**
 
 - 📫 How to reach me **js05157@yu.ac.kr**
