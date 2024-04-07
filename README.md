@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumin Yeom, a developer who grows every day.</h1>
-<h3 align="center">A passionate developer from Korea</h3>
+<h3 align="center">A passionate developer from South Korea</h3>
 
 
 
