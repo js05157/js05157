@@ -6,7 +6,7 @@
 ## Introduce
 - I am majoring in computer engineering at Yeungnam University.
 
-- 🌱 I’m currently learning **Algorithms, operating systems, software engineering**
+- 💻 I’m currently learning **Algorithms, operating systems, software engineering**
 
 - 🎮 I'm interested in **game development**
 
@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://instagram.com/ys_______m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ys_______m" height="30" width="40" /></a>
 <a href="https://discord.gg/smn2157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="smn2157" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
