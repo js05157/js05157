@@ -6,7 +6,7 @@
 ## Introduce
 - I am majoring in computer engineering at Yeungnam University.
 
-- 💻 I’m currently learning **Algorithms, operating systems, software engineering**
+- 💻 I’m currently learning **Algorithms, operating systems, Open Source Software**
 
 - 🎮 I'm interested in **game development**
 
