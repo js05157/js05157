@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumin Yeom</h1>
-<h3 align="center">A passionate developer from South Korea</h3>
 
 
 
-## Introduce
-- I am majoring in computer engineering at Yeungnam University.
-
-- 💻 I’m currently learning **Algorithms, operating systems, Open Source Software**
-
-- 🎮 I'm interested in **game development**
 
 - 📫 How to reach me **js05157@yu.ac.kr**
 
